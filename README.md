@@ -2,7 +2,7 @@
 This is a Substance Designer template for making Source 2 exports simple, quick and easy.
 
 ## __Preview__
-![Source 2 Substance Preset](https://user-images.githubusercontent.com/32498714/129781318-481a3d63-f1f7-4c36-b474-2af839550011.png)
+![Source 2 Substance Preset](https://user-images.githubusercontent.com/32498714/129810669-b90fd1ab-a0d1-46ed-aeff-b883483ec6a5.png)
 
 ## Installation
 
