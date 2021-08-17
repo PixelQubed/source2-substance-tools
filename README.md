@@ -19,7 +19,3 @@ This is a Substance Designer template for making Source 2 exports simple, quick 
 11. Now restart your Substance Designer Program and on the next launch, check to see if it there in your templates.
 12. It will have a small Source 2 logo infront of it to make it stand out to the eye.
 13. Now if you see the template, your done!
-
-## Copyright
-
-This is licenced under Creative Commons, I stipulate that you can edit this template to suit your own needs, If you publish alterations of this template, it is required that you give credit to its original creator, ***Me***. You can however create content derived from this template and not need to credit the original creator, this includes commercial products. Thanks for reading and understanding. 
