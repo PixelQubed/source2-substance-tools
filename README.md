@@ -1,4 +1,4 @@
-# __Source 2 Material Template and tools for Substance Designer__
+# __Source 2 Material Template and Tools for Substance Designer__
 This is a Substance Designer template for making Source 2 exports simple, quick and easy.
 Now includes tools to help preview masks for 4-Way Blend and Tintable materials right in Designer.
 
