@@ -2,8 +2,6 @@
 This is a Substance Designer template for making Source 2 exports simple, quick and easy.
 Now includes tools to help preview masks for 4-Way Blend and Tintable materials right in Designer.
 
-Painter support coming soon!
-
 ## __Preview__
 ![Source 2 Substance Preset](https://user-images.githubusercontent.com/32498714/203240418-be77368b-ee8a-4cd9-ae89-9a5ef125733f.png)
 
